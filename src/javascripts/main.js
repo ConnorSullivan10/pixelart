@@ -1,3 +1,5 @@
 import 'bootstrap';
 
-console.log('hi');
+import '../styles/main.scss';
+
+console.error('hi');
