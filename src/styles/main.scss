@@ -1,5 +1,21 @@
 @import "~bootstrap/scss/bootstrap";
 
 body {
-    background-color: pink;
+    background-image: url("https://wallpaperplay.com/walls/full/2/f/e/295252.jpg");
 }
+
+container {
+    flex-direction: column;
+    align-items: center;
+    margin-top: 5%;
+    margin-bottom: auto;
+
+    h1 {
+        color:white;
+    }
+
+    div {
+        background-color: white
+    }
+}
+
