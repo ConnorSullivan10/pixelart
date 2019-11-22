@@ -1,7 +1,7 @@
 import $ from 'jquery';
 import utils from '../../helpers/utilities';
 
-const colors = ['green', 'darkorchid', 'papayawhip', 'blanchedalmond', 'tomato', 'cornsilk'];
+const colors = ['red', 'blue', 'green', 'blueviolet', 'lightpink', 'orange'];
 
 const printColorPicker = () => {
   let domString = '';
